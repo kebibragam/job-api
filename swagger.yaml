@@ -26,8 +26,8 @@ paths:
                     email: manish@email.com
                     password: password
             example:
-              name: manish
-              email: manish@email.com
+              name: bibek
+              email: bibek@email.com
               password: password
         required: true
       responses:
@@ -181,8 +181,8 @@ components:
         password:
           type: string
       example:
-        name: manish
-        email: manish@email.com
+        name: bibek
+        email: bibek@email.com
         password: password
     loginuserrequest:
       title: loginuserrequest
